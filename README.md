@@ -1,9 +1,9 @@
 What it does:
 1. Creates a .tar.gz package containing web application.
-2. Removes existing site files.
+2. Removes existing site files on server.
 3. Copies package to site directory on server.
 4. Extracts package files to site directory on server.
-5. Restarts web process responsible for hosting application.
+5. Restarts server's web process responsible for hosting application.
 
 
 ### Requirements
